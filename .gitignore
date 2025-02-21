@@ -2,4 +2,8 @@
 .obsidian/
 
 # Exclude Templates
+<<<<<<< HEAD
 templates/
+=======
+templates/
+>>>>>>> origin/main
