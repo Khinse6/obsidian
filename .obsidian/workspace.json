@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "895a645660ce1101",
+        "id": "dc17fc3404aeb2c1",
         "type": "tabs",
         "children": [
           {
-            "id": "48004fe63b163600",
+            "id": "76c7c877d3911a36",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -169,10 +169,32 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "94a001412a532036",
-  "lastOpenFiles": []
+  "active": "76c7c877d3911a36",
+  "lastOpenFiles": [
+    "README.md",
+    "index.md",
+    "templates/series.md",
+    "templates",
+    "projects/index.md",
+    "projects",
+    "hobbies/league-of-legends/Series/scrimm-28-01-2025.md",
+    "hobbies/league-of-legends/Series/torneio-16-02-2025.md",
+    "hobbies/league-of-legends/Series/scrimm-23-01-2025.md",
+    "hobbies/league-of-legends/Series/scrimm-08-02-2025.md",
+    "hobbies/league-of-legends/Series/scrimm-06-02-2025.md",
+    "hobbies/league-of-legends/Series/review-17-02-2025.md",
+    "hobbies/league-of-legends/concepts/wave-managment.md",
+    "hobbies/league-of-legends/concepts/tempo.md",
+    "hobbies/league-of-legends/concepts/botlane-matchups.md",
+    "hobbies/league-of-legends/Series",
+    "hobbies/league-of-legends/index.md",
+    "hobbies/league-of-legends/concepts",
+    "hobbies/league-of-legends",
+    "hobbies/index.md",
+    "hobbies"
+  ]
 }
