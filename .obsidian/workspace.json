@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "310a5a6d851f5ba0",
+        "id": "1b2b68dca1bc9b6c",
         "type": "tabs",
         "children": [
           {
-            "id": "8145bcaaf73fa4b4",
+            "id": "0fb2a813ba849a33",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".gitignore",
-                "bFile": ".gitignore",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: .gitignore"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
