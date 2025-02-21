@@ -1,9 +1,0 @@
-# Exclude Obsidian's settings (including plugin and hotkey configurations)
-.obsidian/
-
-# Exclude Templates
-<<<<<<< HEAD
-templates/
-=======
-templates/
->>>>>>> origin/main
