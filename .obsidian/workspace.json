@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5110380e11ba2c0d",
+        "id": "10db86c72569e2ed",
         "type": "tabs",
         "children": [
           {
-            "id": "7e80c487ca9f6a4b",
+            "id": "89dee930ba1ab61f",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "projects/index.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -177,8 +177,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e80c487ca9f6a4b",
+  "active": "89dee930ba1ab61f",
   "lastOpenFiles": [
+    "hobbies/index.md",
     "projects/index.md",
     "templates/series.md",
     "index.md",
@@ -205,7 +206,6 @@
     "hobbies/league-of-legends/series",
     "hobbies/league-of-legends/concepts",
     "hobbies/league-of-legends",
-    "hobbies/index.md",
     "hobbies"
   ]
 }
