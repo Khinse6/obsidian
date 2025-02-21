@@ -12,4 +12,4 @@ aliases: League of Legends
 
 ### Some game reviews
 
-- [Review 17/02/2025](Series/review-17-02-2025.md)
+- [Review 17/02/2025](series/review-17-02-2025.md)

@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1b2b68dca1bc9b6c",
+        "id": "1f66af999870c6f9",
         "type": "tabs",
         "children": [
           {
-            "id": "0fb2a813ba849a33",
+            "id": "816e3160534985c2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "hobbies/league-of-legends/series/review-17-02-2025.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "review-17-02-2025"
             }
           }
         ]
@@ -173,8 +177,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c6d91cc1543d680f",
+  "active": "816e3160534985c2",
   "lastOpenFiles": [
+    "hobbies/league-of-legends/series/scrimm-06-02-2025.md",
+    "hobbies/league-of-legends/series/review-17-02-2025.md",
+    "hobbies/league-of-legends/series/scrimm-08-02-2025.md",
+    "hobbies/league-of-legends/series/scrimm-23-01-2025.md",
+    "hobbies/league-of-legends/series/scrimm-28-01-2025.md",
+    "hobbies/league-of-legends/series/torneio-16-02-2025.md",
+    "hobbies/league-of-legends/index.md",
     "conflict-files-obsidian-git.md",
     "README.md",
     "index.md",
@@ -182,17 +193,10 @@
     "templates",
     "projects/index.md",
     "projects",
-    "hobbies/league-of-legends/Series/scrimm-28-01-2025.md",
-    "hobbies/league-of-legends/Series/torneio-16-02-2025.md",
-    "hobbies/league-of-legends/Series/scrimm-23-01-2025.md",
-    "hobbies/league-of-legends/Series/scrimm-08-02-2025.md",
-    "hobbies/league-of-legends/Series/scrimm-06-02-2025.md",
-    "hobbies/league-of-legends/Series/review-17-02-2025.md",
     "hobbies/league-of-legends/concepts/wave-managment.md",
     "hobbies/league-of-legends/concepts/tempo.md",
     "hobbies/league-of-legends/concepts/botlane-matchups.md",
-    "hobbies/league-of-legends/Series",
-    "hobbies/league-of-legends/index.md",
+    "hobbies/league-of-legends/series",
     "hobbies/league-of-legends/concepts",
     "hobbies/league-of-legends",
     "hobbies/index.md",
