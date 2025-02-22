@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/index.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": true
               },
@@ -140,16 +140,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of index"
             }
           },
           {
-            "id": "c6d91cc1543d680f",
+            "id": "5dd3615ea4e4673a",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -179,8 +180,8 @@
   },
   "active": "89dee930ba1ab61f",
   "lastOpenFiles": [
-    "hobbies/index.md",
     "projects/index.md",
+    "hobbies/index.md",
     "templates/series.md",
     "index.md",
     "2025-02-21-t1-vs-hle.md",
