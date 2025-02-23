@@ -4,27 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "ef9b15ec051940de",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "789cc53cc424db97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hobbies/league-of-legends/concepts/wave-managment.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "wave-managment"
-            },
-            "group": "17242a7ec710fabd"
-          }
-        ]
-      },
-      {
         "id": "66d20186e31cd5f0",
         "type": "tabs",
         "children": [
@@ -32,16 +11,15 @@
             "id": "24a6f6e51b227d5a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "hobbies/league-of-legends/concepts/wave-managment.md",
-                "mode": "source",
-                "source": true
+                "aFile": "hobbies/league-of-legends/index.md",
+                "bFile": "hobbies/league-of-legends/index.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "wave-managment"
-            },
-            "group": "17242a7ec710fabd"
+              "icon": "diff",
+              "title": "Diff: index"
+            }
           }
         ]
       }
@@ -200,17 +178,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "94a001412a532036",
+  "active": "24a6f6e51b227d5a",
   "lastOpenFiles": [
+    "index.md",
+    "templates/series.md",
+    "projects/index.md",
+    "hobbies/index.md",
+    "hobbies/league-of-legends/index.md",
+    "hobbies/league-of-legends/concepts/tempo.md",
+    "hobbies/league-of-legends/concepts/wave-managment.md",
+    "hobbies/league-of-legends/concepts/botlane-matchups.md",
     "hobbies/league-of-legends/series/2025-02-22-ven-vs-dvp.md",
     "shiprock.avif",
-    "hobbies/league-of-legends/concepts/wave-managment.md",
     "hobbies/league-of-legends/series/2025-02-22-ven-vs-dvp.md",
-    "index.md",
-    "hobbies/index.md",
-    "projects/index.md",
-    "hobbies/league-of-legends/index.md",
-    "templates/series.md",
     "2025-02-21-t1-vs-hle.md",
     "2025-02-21-hle-vs-t1.md",
     "2025-02-21-t1-vs-hlr.md",
@@ -227,8 +207,6 @@
     "README.md",
     "templates",
     "projects",
-    "hobbies/league-of-legends/concepts/tempo.md",
-    "hobbies/league-of-legends/concepts/botlane-matchups.md",
     "hobbies/league-of-legends/series",
     "hobbies/league-of-legends/concepts",
     "hobbies/league-of-legends",
