@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "66d20186e31cd5f0",
+        "id": "4356916dc01fda8c",
         "type": "tabs",
         "children": [
           {
-            "id": "24a6f6e51b227d5a",
+            "id": "96ebbba5d5c02b0a",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "hobbies/league-of-legends/index.md",
-                "bFile": "hobbies/league-of-legends/index.md",
-                "aRef": ""
+                "file": "hobbies/league-of-legends/index.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "diff",
-              "title": "Diff: index"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -178,15 +178,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "24a6f6e51b227d5a",
+  "active": "96ebbba5d5c02b0a",
   "lastOpenFiles": [
+    "hobbies/league-of-legends/concepts/wave-managment.md",
+    "hobbies/league-of-legends/index.md",
     "index.md",
-    "templates/series.md",
     "projects/index.md",
     "hobbies/index.md",
-    "hobbies/league-of-legends/index.md",
+    "templates/series.md",
     "hobbies/league-of-legends/concepts/tempo.md",
-    "hobbies/league-of-legends/concepts/wave-managment.md",
     "hobbies/league-of-legends/concepts/botlane-matchups.md",
     "hobbies/league-of-legends/series/2025-02-22-ven-vs-dvp.md",
     "shiprock.avif",
