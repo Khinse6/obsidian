@@ -2,12 +2,13 @@
 title: Wave Managment
 aliases: Wave Managment
 ---
+# Wave Managment
 
 Wave management refers to the strategic manipulation of minion waves to gain an advantage over your opponent. By carefully managing how minions are positioned on the lane, you can create opportunities for ganks, objectives, or vision control.
 
-### **Types of Wave States**
+## **Types of Wave States**
 
-#### **Fast Pushing (Shoving the Wave)**
+### **Fast Pushing (Shoving the Wave)**
 
 Fast pushing the wave means intentionally causing your minions to move toward the enemy tower. This creates **pressure on the enemy**, forcing them to react. When you push the wave, the opponent must:
 
@@ -16,7 +17,7 @@ Fast pushing the wave means intentionally causing your minions to move toward th
 
 Pushing is useful when you want to reset, pressure an objective, or set up a roam. However, if done incorrectly, it can leave you vulnerable to **ganks** from the enemy jungler or to the enemy **freezing your wave**.
 
-#### **Freezing (Holding the Wave in Place)**
+### **Freezing (Holding the Wave in Place)**
 
 A **freeze** is when you keep the minion wave **near your tower** without letting it reach your turret. This is done by last-hitting minions only when necessary to **maintain the wave’s position**. When you freeze:
 
@@ -26,7 +27,7 @@ A **freeze** is when you keep the minion wave **near your tower** without lettin
 
 Freezing is a powerful tool when **playing from behind**, as it forces the enemy to come closer to your side of the map, making them **easier to punish**.
 
-#### **Slow Pushing (Building a Stacked Wave)**
+### **Slow Pushing (Building a Stacked Wave)**
 
 A **slow push** happens when you build up a **large wave** that gradually moves toward the enemy turret. This is done by **last-hitting minions slowly**, allowing your own minions to accumulate. A slow push gives you:
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hobbies/league-of-legends/index.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": true
               },
@@ -180,14 +180,14 @@
   },
   "active": "96ebbba5d5c02b0a",
   "lastOpenFiles": [
+    "projects/index.md",
+    "hobbies/index.md",
+    "hobbies/league-of-legends/concepts/botlane-matchups.md",
+    "hobbies/league-of-legends/concepts/tempo.md",
     "hobbies/league-of-legends/concepts/wave-managment.md",
     "hobbies/league-of-legends/index.md",
     "index.md",
-    "projects/index.md",
-    "hobbies/index.md",
     "templates/series.md",
-    "hobbies/league-of-legends/concepts/tempo.md",
-    "hobbies/league-of-legends/concepts/botlane-matchups.md",
     "hobbies/league-of-legends/series/2025-02-22-ven-vs-dvp.md",
     "shiprock.avif",
     "hobbies/league-of-legends/series/2025-02-22-ven-vs-dvp.md",

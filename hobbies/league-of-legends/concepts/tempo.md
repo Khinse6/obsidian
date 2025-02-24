@@ -2,6 +2,7 @@
 title: Tempo
 aliases: Tempo
 ---
+# Tempo
 
 Tempo is the **pace at which the game plays out**, dictating which team should **act** and which team should **respond**. It is what makes _League of Legends_, despite being a real-time game, fundamentally operate like a **turn-based strategy** — where every action forces a reaction.
 

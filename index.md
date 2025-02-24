@@ -4,10 +4,10 @@ aliases: My website
 index: TRUE
 ---
 
-## Welcome to my personal website
+# Welcome to my personal website
 
-### [Projects](projects/index.md)
-
-### [Hobbies](hobbies/index.md)
-
-
+## This is a H2
+### This is a H3
+#### This is a H4
+##### This is a H5
+###### This is a H6
