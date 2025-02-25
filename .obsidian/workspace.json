@@ -6,6 +6,7 @@
       {
         "id": "4356916dc01fda8c",
         "type": "tabs",
+        "dimension": 56.34796238244514,
         "children": [
           {
             "id": "96ebbba5d5c02b0a",
@@ -20,16 +21,17 @@
               "icon": "lucide-file",
               "title": "2025-02-24-ven-vs-lcs"
             },
-            "group": "721cb5bb29b785c0"
+            "group": "d36a710c33c35b10"
           }
         ]
       },
       {
-        "id": "30b0fbba561ced8a",
+        "id": "a8a6afd893f4e815",
         "type": "tabs",
+        "dimension": 43.65203761755485,
         "children": [
           {
-            "id": "f84ad45718195720",
+            "id": "d86a73ad4bcd5c53",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -41,7 +43,7 @@
               "icon": "lucide-file",
               "title": "2025-02-24-ven-vs-lcs"
             },
-            "group": "721cb5bb29b785c0"
+            "group": "d36a710c33c35b10"
           }
         ]
       }
@@ -200,7 +202,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f84ad45718195720",
+  "active": "d86a73ad4bcd5c53",
   "lastOpenFiles": [
     "hobbies/league-of-legends/series/2025-02-22-ven-vs-dvp.md",
     "hobbies/league-of-legends/series/2025-02-24-ven-vs-lcs.md",
